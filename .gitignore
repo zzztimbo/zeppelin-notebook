@@ -1,0 +1,6 @@
+# ide 
+.idea/
+
+# spark
+spark-3.1.2-bin-hadoop3.2/
+
